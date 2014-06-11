@@ -47,6 +47,8 @@ Pass --help for more options::
       -d, --debug           Enable debug logging
       -H STUN_HOST, --host=STUN_HOST
                             STUN host to use
+      -H2 STUN_HOST2, --host2=STUN_HOST2
+                            Second IP for STUN host
       -P STUN_PORT, --host-port=STUN_PORT
                             STUN host port to use (default: 3478)
       -i SOURCE_IP, --interface=SOURCE_IP
